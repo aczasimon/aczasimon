@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Acza Simon 👋</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=85&duration=2000&pause=700&center=true&vCenter=true&width=1200&height=120&lines=Hey%2C+I'm+Acza!;Hey%2C+I'm+Acza!" /> 
 
 <p align="center">
   <b>Computer Science & Artificial Intelligence Student | Aspiring Full-Stack & AI Developer</b>
