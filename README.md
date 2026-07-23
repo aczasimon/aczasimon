@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Acza Simon
 
-<!--
-**aczasimon/aczasimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Artificial Intelligence Student
+📚 3rd Year B.Tech Student
+💻 Developer Learner | Passionate about Technology & Software Development
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Web Development, AI, and Software Development
+- 💡 Interested in Artificial Intelligence, Full-Stack Development, and Open Source
+- 📖 Always exploring new technologies and improving my coding skills
+- 🎯 Goal: Build impactful applications and contribute to real-world projects
+
+🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- Git & GitHub
+
+📚 Currently Learning
+
+- React
+- Node.js
+- Flutter
+- Machine Learning
+- Database Management
+
+🎯 Goals
+
+- Build useful web and mobile applications
+- Contribute to open-source projects
+- Strengthen problem-solving skills
+- Grow as an AI and Full-Stack Developer
+
+📫 Connect With Me
+
+- GitHub: https://github.com/your-username
+
+---
+
+⭐ "Learning today, building tomorrow."
